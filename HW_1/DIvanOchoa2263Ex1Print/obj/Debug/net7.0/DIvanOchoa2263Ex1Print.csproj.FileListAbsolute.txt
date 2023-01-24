@@ -1,0 +1,15 @@
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\bin\Debug\net7.0\DIvanOchoa2263Ex1Print.exe
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\bin\Debug\net7.0\DIvanOchoa2263Ex1Print.deps.json
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\bin\Debug\net7.0\DIvanOchoa2263Ex1Print.runtimeconfig.json
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\bin\Debug\net7.0\DIvanOchoa2263Ex1Print.dll
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\bin\Debug\net7.0\DIvanOchoa2263Ex1Print.pdb
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\obj\Debug\net7.0\DIvanOchoa2263Ex1Print.csproj.AssemblyReference.cache
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\obj\Debug\net7.0\DIvanOchoa2263Ex1Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\obj\Debug\net7.0\DIvanOchoa2263Ex1Print.AssemblyInfoInputs.cache
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\obj\Debug\net7.0\DIvanOchoa2263Ex1Print.AssemblyInfo.cs
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\obj\Debug\net7.0\DIvanOchoa2263Ex1Print.csproj.CoreCompileInputs.cache
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\obj\Debug\net7.0\DIvanOchoa2263Ex1Print.dll
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\obj\Debug\net7.0\refint\DIvanOchoa2263Ex1Print.dll
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\obj\Debug\net7.0\DIvanOchoa2263Ex1Print.pdb
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\obj\Debug\net7.0\DIvanOchoa2263Ex1Print.genruntimeconfig.cache
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\DIvanOchoa2263Ex1Print\obj\Debug\net7.0\ref\DIvanOchoa2263Ex1Print.dll

@@ -1,0 +1,17 @@
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\bin\Debug\net7.0-windows\DIvanOchoa2263Ex1.exe
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\bin\Debug\net7.0-windows\DIvanOchoa2263Ex1.deps.json
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\bin\Debug\net7.0-windows\DIvanOchoa2263Ex1.runtimeconfig.json
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\bin\Debug\net7.0-windows\DIvanOchoa2263Ex1.dll
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\bin\Debug\net7.0-windows\DIvanOchoa2263Ex1.pdb
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\DIvanOchoa2263Ex1.csproj.AssemblyReference.cache
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\DIvanOchoa2263Ex1.FullNameForm.resources
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\DIvanOchoa2263Ex1.csproj.GenerateResource.cache
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\DIvanOchoa2263Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\DIvanOchoa2263Ex1.AssemblyInfoInputs.cache
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\DIvanOchoa2263Ex1.AssemblyInfo.cs
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\DIvanOchoa2263Ex1.csproj.CoreCompileInputs.cache
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\DIvanOchoa2263Ex1.dll
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\refint\DIvanOchoa2263Ex1.dll
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\DIvanOchoa2263Ex1.pdb
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\DIvanOchoa2263Ex1.genruntimeconfig.cache
+C:\Users\I_Ots\source\repos\HomeWork_repos\HomeWork_1\winform_submission\DIvanOchoa2263Ex1\obj\Debug\net7.0-windows\ref\DIvanOchoa2263Ex1.dll
